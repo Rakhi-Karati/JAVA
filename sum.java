@@ -7,6 +7,6 @@ class ABC
         int sum=(x+y);
         int difference=(x-y);
             System.out.println("Sum:"+sum);
-            sytem.out.println("Difference:"+difference);
+            System.out.println("Difference:"+difference);
     }
 }
